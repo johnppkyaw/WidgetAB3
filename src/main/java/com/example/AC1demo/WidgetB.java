@@ -7,7 +7,7 @@ import org.springframework.stereotype.Component;
 // there are many other annotations that can do the same job, but 
 // the @Component is the basic and the most widely used by the developers. 
 
-
+@Component
 public class WidgetB {
 	
 	public void doSomething() {
